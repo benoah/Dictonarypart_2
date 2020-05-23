@@ -1,0 +1,56 @@
+.card{
+    margin-top: 30px;
+  }
+  
+  .button.is-dark{
+    width: 100%;
+  }
+  
+  .title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .card{
+    text-align: center;
+    padding: 10px;
+  }
+  
+  
+  .anImage{
+    width: 18px;
+    margin-left: 16px;
+    margin-top: 4px;
+  }
+  
+  .background-photo {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-position: bottom;
+            background-repeat: no-repeat;
+            background-size: cover;
+  }
+  
+  .error{
+    color: red;
+    display: none;
+  }
+  
+  
+  .scheduleContent{
+    display: none;
+  }
+  
+  .subtitle {
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.25;
+    background-color: rgba(255,255,255,0.6);
+    padding: 20px;
+  }
+  
